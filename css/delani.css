@@ -38,5 +38,56 @@
     color: white;
     font-size: 12px;
     text-align: center;
+}
+    .switchdisplay {
+        display: none;
+      }
 
+
+.contacts {
+    padding: 50px;
+    background-size: 90%;
+    background-position:center;
+    
+}
+
+.contact-overlay {
+    background-color: rgb(95, 88, 88);
+    background-image: url('/Assets/s_image.jpg');
+  
+}
+
+
+.contacts h1 {
+    position: relative;
+    top: 20px;
+}
+.text{
+    margin-bottom: 20px;
+}
+
+
+.input{
+    margin-top: 30px;
+    margin-left: 100px;
+}
+.contactus-text{
+    font-family: 'Comfortaa', cursive;
+    
+}
+
+
+
+.name{
+    margin-right: 5px;
+    margin-left: 70px;
+}
+input.error {
+    border: 1px dashed red;
+    font-weight: 300;
+    color: red;
+}
+.email{
+    margin-right: 5px;
+    margin-left: 70px;
 }
