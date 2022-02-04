@@ -36,13 +36,10 @@
 .text1 {
     padding-top: 5%;
     color: white;
-    font-size: 12px;
+    font-size: 13px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
     text-align: center;
 }
-    .switchdisplay {
-        display: none;
-      }
-
 
 .contacts {
     padding: 50px;
