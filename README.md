@@ -10,13 +10,14 @@ This is a landing page for Delani studios.
   Navigate to Delani
   Open using Visual Studion Code
   
-##Technologies used
+###Technologies used
 
   HTML
   CSS
   Bootstrap
   JQuery
- ##Live link to my site
+  
+ ###Live link to my site
  
  https://hellenmawia.github.io/Delani/#about-us
  
