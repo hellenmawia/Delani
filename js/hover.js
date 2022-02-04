@@ -1,9 +1,18 @@
 $(document).ready(function(){
-    $('.portimg').hover(function(){
-        $('.porttext',this).slideToggle('slow');
+    /*$("#portimg").hover(function(){
+        $("#portfoliotext",this).slideToggle('slow');
      }, function(){
-        $('.porttext',this).slideToggle('slow');
-     });
+        $("#portfoliotext",this).slideToggle('slow');
+     });*/
+
+     $(".portfoliohover").hover(function(){
+        $(this).animate({opacity:'1'});
+      },
+      function(){
+        $(this).animate({opacity:'0'});
+      })
+
+    
     
      $("#design").click(function() {
         $("#show1").slideToggle();
