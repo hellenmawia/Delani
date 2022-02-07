@@ -3,7 +3,7 @@
 
 #banner1 {
     padding: 50px;
-    background-image:url(../Assets/h_img.jpg);
+    background-image:url(/../Assets/h_img.jpg);
     background-size: 90%;
     background-repeat: no-repeat;
     background-position:center;
@@ -20,18 +20,47 @@
 }
 
 #logo {
-   padding-bottom:20px;
-    
+   
+   margin-top: 100px;
+   margin-bottom: 24px;
+   width: 70px;
+   height: 70px;;
+   
+
+  
 }
 
 .banner2 {
     padding: 50px;
-    background-image:url(../Assets/s_image.jpg);
-    background-size: 90%;
+    background-image:url(/../Assets/s_image.jpg);
+    background-size: 0%;
     background-repeat: no-repeat;
     background-position:center;
-
 }
+    .mousepic {
+
+        padding-bottom:1px;
+    
+    }
+
+    .textpart1 {
+        padding-top: 0%;
+        color: white;
+        font-size: 30px;
+        font-family:Verdana, Geneva, Tahoma, sans-serif
+        
+        
+    }
+
+    .textpart2 {
+        padding-top: 0%;
+        color: white;
+        font-size: 10px;
+        font-family:Verdana, Geneva, Tahoma, sans-serif
+        
+        
+    }
+
 
 
 .text1 {
