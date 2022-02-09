@@ -11,14 +11,14 @@ Open terminal (CTRL ALT T) Git clone [url] https://github.com/hellenmawia/Delani
 
 ## Technologies used
 
-1.HTML
-2.CSS
-3.Bootstrap
-4.JQuery
+1. HTML
+2. CSS
+3. Bootstrap
+4. JQuery
 
 ## Live link to my site
 
-(https://hellenmawia.github.io/Delani/#about-us)
+(https://hellenmawia.github.io/Delani/#index.html)
 
 ## Behavior Driven Development
 
